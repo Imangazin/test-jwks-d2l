@@ -6,7 +6,7 @@
                 "use": "sig",
                 "alg": "RS256",
                 "kid": "d2l-test-key",
-                "n": "ptKgqL04XKHGvCImyrUWgMeWs60a5xwNyd3e-PDdY8571-aL8XZe3f4O_ZaK3anTclxunCWXaCM1ywy8G6nRgfWGAYDPwSQRAxQh5IvY51KAlUk_i6VIV1LTQ8cLQrQrS2-l7jYjv8Eed1fsV_$",
+                "n": "ptKgqL04XKHGvCImyrUWgMeWs60a5xwNyd3e-PDdY8571-aL8XZe3f4O_ZaK3anTclxunCWXaCM1ywy8G6nRgfWGAYDPwSQRAxQh5IvY51KAlUk_i6VIV1LTQ8cLQrQrS2-l7jYjv8Eed1fsV_",
                 "e": "AQAB"
                 }
         ]
